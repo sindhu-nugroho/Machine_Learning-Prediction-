@@ -4,6 +4,7 @@ from sklearn.preprocessing import StandardScaler
 from scipy.cluster.hierarchy import linkage, dendrogram, fcluster
 import matplotlib.pyplot as plt
 
+
 file_to_analyze = 'B2BSemarangQ1Q2.csv'
 month_names = ['Januari', 'Febuari', 'Maret', 'April', 'Mei', 'Juni']
 

@@ -45,3 +45,4 @@ print(fi)
 plt.figure(figsize=(10,6))
 plot_importance(model, max_num_features=10)
 plt.show()
+

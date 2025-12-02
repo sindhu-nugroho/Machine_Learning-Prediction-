@@ -7,6 +7,7 @@ from statsmodels.tsa.statespace.sarimax import SARIMAX
 import warnings
 import os
 
+
 warnings.filterwarnings("ignore")
 
 FILE_Q1Q2 = "B2BSemarangQ1Q2.csv"
